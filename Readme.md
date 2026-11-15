@@ -41,7 +41,7 @@ This project is a full-stack application built with React Native for the fronten
  
 1. **Clone the repository**: 
    ```bash 
-   git clone https://github.com/tejartr7/full-stack-expo-react-native-starter.git 
+   git clone https://github.com/goldenDragon/full-stack-expo-react-native-starter.git 
    cd full-stack-expo-react-native-starter/frontend 
    ``` 
  

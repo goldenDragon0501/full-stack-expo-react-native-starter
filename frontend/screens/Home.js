@@ -30,7 +30,7 @@ export default function Home({ navigation }) {
 
   const openGitHubLink = () => {
     Linking.openURL(
-      "https://github.com/tejartr7/full-stack-expo-react-native-starter"
+      "https://github.com/goldenDragon/full-stack-expo-react-native-starter"
     );
   };
 
